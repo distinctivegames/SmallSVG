@@ -1,9 +1,9 @@
-/*
- Orignally wirttend by Distinctive Developments Ltd
- http://www.distinctivegames.com
- 
+/* 
  Project Home:
  http://github.com/distinctivegames/SmallSVG
+ 
+ Copyright 2011 Distinctive Developments Ltd
+ http://www.distinctivegames.com 
  
  This software is provided 'as-is', without any express or implied
  warranty. In no event will the authors be held liable for any
